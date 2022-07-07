@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.senevsemih.gamepackage": "file:D:/Unity/_GamePackage/Tools",
     "com.unity.burst": "1.6.6",
     "com.unity.cinemachine": "2.8.6",
     "com.unity.collab-proxy": "1.15.15",
